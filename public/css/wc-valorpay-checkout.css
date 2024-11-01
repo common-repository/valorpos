@@ -1,0 +1,7 @@
+.payment_box.payment_method_wc_valorpay {
+	overflow: hidden;
+	width: 100%;
+}
+p#valorpay_terms_field .optional {
+	display: none;
+}
